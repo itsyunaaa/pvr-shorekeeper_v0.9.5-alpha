@@ -1,2 +1,3 @@
-# asuna-v0.9.5
-A WhatsApp Bot by Yuna
+<div align="center">
+<h1><i>Still in development stage :p</i></h1>
+</div>
