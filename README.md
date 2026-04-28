@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1920" height="1080" alt="shorekeeper" src="https://github.com/user-attachments/assets/c16cdab7-0ab1-4bc6-ace3-50fefe8d444d"/>
+<img width="480" height="480" alt="shorekeeper" src="https://github.com/user-attachments/assets/bf8efdee-8eee-4c2d-8011-c9e775dea7a8"/>
 </div>
 
 <div align="center">
