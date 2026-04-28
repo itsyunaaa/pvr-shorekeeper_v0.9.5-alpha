@@ -1,1 +1,6 @@
-
+{
+  "name": "shorekeeper-ai",
+  "version": "0.9.5-alpha",
+  "private": true,
+  "description": "A WhatsApp Bot by Yuna (PVR)"
+}
