@@ -4,7 +4,7 @@
 
 <div align="center">
 <h2><b>Shorekeeper AI</b></h2>
-<p><code>🚧 STILL IN DEVELOPMENT STAGE</code><br><br><i>Pardon the dust! I am currently building this project and it is not yet ready for release.</i></p>
+<p><code>🚧 STILL IN DEVELOPMENT STAGE</code></p>
 </div>
 
 ---
@@ -12,6 +12,8 @@
 ### ⏳ Release Target
 Since real-time countdowns aren't supported on GitHub READMEs, here is my targeted release schedule:
 * **ETA:** `July 28, 2026` at `06:00 AM` (UTC+7)
+
+---
 
 ### 📖 About This Project
 I am developing an advanced, highly interactive WhatsApp Bot. I am building this project from the ground up using modern technologies to ensure fast and reliable performance. 
@@ -22,11 +24,15 @@ I am developing an advanced, highly interactive WhatsApp Bot. I am building this
 * **Core Library:** Custom Baileys fork
 * **Database:** `better-sqlite3`
 
+---
+
 ### 🎮 Planned Features
 While still under construction, I am planning to implement:
 * Tons of highly interactive commands.
 * Engaging and fun mini-games directly playable within WhatsApp.
 * ...and much more to come!
+
+---
 
 ### ⚠️ License & Copyright
 This project will be released under the **GNU General Public License v3.0 (GPL-3.0)**.
