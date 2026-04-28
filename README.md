@@ -3,5 +3,7 @@
 </div>
 
 <div align="center">
-<h1><b>Still in development stage :p</b></h1>
+<h2><b>Still in development stage :p</b></h2>
 </div>
+
+<p align="center">
